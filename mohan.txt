@@ -1,2 +1,3 @@
 to tidasafjrekln
-tohappyluckyto ready
+<<<<<<< HEAD
+tohappyluckyto read
